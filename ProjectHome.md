@@ -1,0 +1,1 @@
+This project will serve as a basic template for a tile based puzzle game. Generic classes will be created such as Floor, Wall and Avatar (which will have subclass Hero and Monster).
